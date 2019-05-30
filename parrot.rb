@@ -1,5 +1,5 @@
-def #parrot(phrase = "Squawk!", x)
-x.times do
+def #parrot(phrase = "Squawk!")
+ do
   puts phrase
   end
 end
