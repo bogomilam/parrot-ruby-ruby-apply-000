@@ -1,7 +1,5 @@
 def #parrot(phrase = "Squawk!")
- do
   puts phrase
-  end
 end
 
 
